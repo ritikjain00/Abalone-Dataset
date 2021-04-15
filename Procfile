@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run abalone_streamlit.py
+web: sh setup.sh && streamlit run abalone-streamlit.py
