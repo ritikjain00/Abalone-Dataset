@@ -11,3 +11,12 @@ Link to dataset: https://share.streamlit.io/ritikkumarjain/abalone-age-predictio
 The model was deployed via streamlit.io using streamlit library.
 
 Link to website: https://share.streamlit.io/ritikkumarjain/abalone-age-prediction
+
+### Screenshot of app:
+
+![Screenshot (81)](https://user-images.githubusercontent.com/69076815/116220763-98fcac00-a76a-11eb-9280-652d0b101d7f.png)
+
+![Screenshot (82)](https://user-images.githubusercontent.com/69076815/116220905-b9c50180-a76a-11eb-8735-edf0c155755e.png)
+
+
+
